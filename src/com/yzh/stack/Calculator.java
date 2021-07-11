@@ -13,7 +13,7 @@ public class Calculator {
 //         创建两个，数栈，一个符号栈
         ArrayStack2 numStack=new ArrayStack2(10);
         ArrayStack2 operStack=new ArrayStack2(10);
-        // 定义需要的变量
+        // 定义需要的变量  github 修改代码
         int index=0;
         int num1=0;
         int num2=0;
